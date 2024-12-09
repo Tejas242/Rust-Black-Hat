@@ -1,3 +1,5 @@
+// Ref: https://en.wikipedia.org/wiki/SHA-1#Examples_and_pseudocode
+
 const BLOCK_SIZE: usize = 64;
 
 pub struct Sha1 {
