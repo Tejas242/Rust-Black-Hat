@@ -1,0 +1,18 @@
+# Rust build artifacts
+**/target/
+**/*.rs.bk
+Cargo.lock
+
+# Debug files
+**/*.pdb
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+**/*~
+**/*.bak
+
+# Log files
+*.log

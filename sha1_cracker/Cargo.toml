@@ -1,0 +1,11 @@
+[package]
+name = "sha1_cracker"
+version = "0.1.0"
+authors = ["screenager"]
+edition = "2021"
+
+[dependencies]
+sha-1 = "0.9.1"
+hex = "0.4.3"
+colored = "2.0"
+indicatif = "0.17.0"
